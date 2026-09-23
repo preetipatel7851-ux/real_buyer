@@ -1,0 +1,21 @@
+{
+  "chosen_k": 6,
+  "silhouette_by_k": {
+    "2": 0.36575072474946124,
+    "3": 0.41394578799269754,
+    "4": 0.41415162602300765,
+    "5": 0.45875658088609955,
+    "6": 0.48365055389047695,
+    "7": 0.42183011728549547,
+    "8": 0.42891754085663786
+  },
+  "explained_variance_2d": 0.6401038295733275,
+  "segment_names": {
+    "0": "Mortgage Home Buyers",
+    "1": "Cash Investors",
+    "2": "Corporate Investors",
+    "3": "Leveraged Investors",
+    "4": "Corporate Buyers",
+    "5": "Cash Home Buyers"
+  }
+}
